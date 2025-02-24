@@ -17,7 +17,7 @@ const TopBar = () => {
               <div className=" tw-flex tw-flex-wrap tw-items-center tw-gap-4 tw-justify-center md:tw-justify-start tw-text-center ">
                 <p className="   tw-text-sm      tw-border-gray  tw-text-white">
                   <i class="ti ti-alarm-clock"></i>
-                  Mon - Fri 10.00 - 18.00
+                  Mon - Fri 10.00 - 18.02
                 </p>
                 <span
                   className="  tw-h-5  tw-mb-4 tw-bg-gray  tw-border-gray"
