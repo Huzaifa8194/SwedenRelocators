@@ -115,7 +115,7 @@ const Header = () => {
                     <Button
                       className={isTop ? "btn-Plain tw-text-black" : "btn-dark"}
                       label="Book an Appointment"
-                      onClick = {{() => (window.location.href = "https://portalclient.vercel.app")}}
+                      onClick={() => (window.location.href = "https://portalclient.vercel.app")}
 
                       
                     />
@@ -124,6 +124,7 @@ const Header = () => {
                       className={isTop ? "btn-Transparent" : "btn-light"}
                       label="Login"
                       onClick={() => (window.location.href = "https://portalclient.vercel.app")}
+                    
                     />
                   </div>
                   
